@@ -5,8 +5,8 @@
 
 First year second semester- "Object-oriented programming" course: Java
 
-This assignment builds on top of the code that you developed for the Arakanoid game. However,
-rather than adding features to the nice game we have, we will implement a brand new game.
-We will be implementing a version of the classic 80s game Space Invaders.
+A game built on top of the code that was developed for the Arakanoid game (code reuse), implementing a brand new game - 
+the familiar Space Invaders game.
+Implemented in Java, using OOP concepts such as design patterns (Factory, Observer/Listener), polymorphism & interfaces, inheritance, and more.
 
 [Link to Readme!](https://github.com/israelElad/OOP-SpaceInvaders-game/blob/master/ass7/README.pdf)
