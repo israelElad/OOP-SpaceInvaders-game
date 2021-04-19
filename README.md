@@ -7,6 +7,6 @@ First year second semester- "Object-oriented programming" course: Java
 
 A game built on top of the code that was developed for the Arakanoid game (code reuse), implementing a brand new game - 
 the familiar Space Invaders game.
-Implemented in Java, using OOP concepts such as design patterns (Factory, Observer/Listener), polymorphism & interfaces, inheritance, and more.
+Implemented in Java, using OOP concepts such as design patterns (Factory, Observer\Listener), polymorphism & interfaces, inheritance, and more.
 
 [Link to Readme!](https://github.com/israelElad/OOP-SpaceInvaders-game/blob/master/ass7/README.pdf)
